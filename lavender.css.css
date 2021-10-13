@@ -1,0 +1,19 @@
+h1{
+font-family:helvetica;
+font-size: 50px;
+color:purple;
+text-align: center;
+font-style: italic;
+font-weight: 600px;
+}
+body{
+  background-color: green;
+font-family: itali;
+font-size:300px;
+font-weight: 700px;
+}
+
+nav a:hover{
+  background-color: purple;
+  background-position:centre;
+}
